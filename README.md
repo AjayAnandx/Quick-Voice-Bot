@@ -13,3 +13,6 @@ The files in `building_blocks` are the isolated components if you'd like to insp
 ```
 python3 QuickAgent.py
 ```
+
+Note:
+By the way i have have used the pyttsx3 insted of usig deepgram text to speech api
